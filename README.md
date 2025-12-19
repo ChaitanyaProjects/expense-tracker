@@ -170,15 +170,7 @@ This ensures:
 - Clear visibility of dues
 - Minimal transactions during settlement
 
----
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
 
----
 
 ##
